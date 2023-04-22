@@ -7,4 +7,4 @@
 ```
  
 ### Datasets
-Dataset is present in Data folder, if you want to download the dataset please 
+Please donwload the Bangla dataset from this [Link](https://multiconer.github.io/dataset) and save in the data directory 
